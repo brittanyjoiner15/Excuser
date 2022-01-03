@@ -1,4 +1,2 @@
-# ExcuserAPI
-An attempt to make Excuser API which containing different excuses related to various situations.
-
-## https://excuser.herokuapp.com/
+## Branch-2
+Using mongodb instead of Excuses.js for storing excuses.
