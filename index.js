@@ -6,7 +6,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // const mongo = require("mongodb").MongoClient;
-// const url = "mongodb+srv://onlykingKD:NHW9D6MV@cluster0.gbs2o.mongodb.net/test?authSource=admin&replicaSet=atlas-l4bvx5-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true";
+// const url = "mongodb+srv://onlykingKD:<password>@cluster0.gbs2o.mongodb.net/test?authSource=admin&replicaSet=atlas-l4bvx5-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true";
 // const dbName = "myNewDB";
 
 // mongo.connect(url, (err, client) => {
